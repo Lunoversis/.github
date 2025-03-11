@@ -5,6 +5,7 @@ technology, therefore building a better future.
 To achieve this goal, we built:
 
  - [Aurora V](https://lunoversis.com): a functional-like programming language.
+ - [Beatrice](https://github.com/LunoversisRobotics/beatrice): Our Robot prototype based on Lunomath.
 
 ### Our Social Media:
  - Official Subreddit: [/r/Lunoversis](https://reddit.com/r/lunoversis)
