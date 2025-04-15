@@ -1,11 +1,11 @@
-# Welcome to [Lunoversis Robotics](https://lunoversis.com)
+# Welcome to [Lunoversis](https://lunoversis.com)
 
 We are Lunoversis, a tech startup focused in pushing the limits of 
 technology, therefore building a better future.
 To achieve this goal, we built:
 
  - [Aurora V](https://lunoversis.com): a functional-like programming language.
- - [Beatrice](https://github.com/LunoversisRobotics/beatrice): Our Robot prototype based on Lunomath.
+ - [Beatrice V](https://github.com/LunoversisRobotics/beatrice_v): Our Robotics framework.
 
 ### Our Social Media:
  - Official Subreddit: [/r/Lunoversis](https://reddit.com/r/lunoversis)
@@ -16,3 +16,6 @@ To achieve this goal, we built:
 ### Contact:
 
 Reach us at <lunoversis3@gmail.com>
+
+
+**Searching the truth beyond analogue circuits.**
