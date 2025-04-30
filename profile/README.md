@@ -12,10 +12,8 @@ To achieve this goal, we built:
  - International Instagram: [@Lunoversis](https://instagram.com/lunoversis)
  - International Youtube Channel: [@LunoversisRobotics](https://youtube.com/@LunoversisRobotics)
  - PT/BR Instagram: [@lunoversisbr](https://instagram.com/lunoversisbr)
- - PT/BR Youtube Channel [@lunoversis3](https://youtube.com/@lunoversis3)
-### Contact:
 
-Reach us at <lunoversis3@gmail.com>
-
+### Join Us
+[![Lunoversis Discord](https://img.shields.io/discord/1363040683685842956.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/EFg5D2VDEG)
 
 **Searching the truth beyond analogue circuits.**
