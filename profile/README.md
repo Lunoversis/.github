@@ -9,9 +9,9 @@ To achieve this goal, we built:
 
 ### Our Social Media:
  - Official Subreddit: [/r/Lunoversis](https://reddit.com/r/lunoversis)
- - International Instagram: [@LunoversisRobotics](https://instagram.com/lunoversis)
+ - International Instagram: [@Lunoversis](https://instagram.com/lunoversis)
  - International Youtube Channel: [@LunoversisRobotics](https://youtube.com/@LunoversisRobotics)
- - PT/BR Instagram: [@lunoversis](https://instagram.com/lunoversisbr)
+ - PT/BR Instagram: [@lunoversisbr](https://instagram.com/lunoversisbr)
  - PT/BR Youtube Channel [@lunoversis3](https://youtube.com/@lunoversis3)
 ### Contact:
 
