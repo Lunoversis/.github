@@ -5,7 +5,7 @@ technology, therefore building a better future.
 To achieve this goal, we built:
 
  - [Aurora V](https://lunoversis.com): a functional-like programming language.
- - [Beatrice V](https://github.com/Lunoversis/beatrice-v): Our Robotics framework.
+ - [Beatrice V](https://github.com/Lunoversis/beatrice_v): Our Robotics framework.
 
 ### Our Social Media:
  - Official Subreddit: [/r/Lunoversis](https://reddit.com/r/lunoversis)
